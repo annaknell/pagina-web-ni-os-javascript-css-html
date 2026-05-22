@@ -1,0 +1,1 @@
+Este proyecto fue realizado pawra la materia Interfaces de Usuario, teniendo de referencia unos screenshots, teniamos que realizar la pagina web tal cual estaba en las imagenes, usando sobretodo JavaScript, CSS y tambien HTML
